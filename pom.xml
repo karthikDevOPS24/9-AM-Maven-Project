@@ -38,7 +38,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.95.162:8081/repository/Project1_Snap/</url>
+            <url>http://192.168.95.162:8081/repository/karthikProject1_Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
