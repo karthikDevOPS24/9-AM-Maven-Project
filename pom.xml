@@ -33,7 +33,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.95.162:8081/repository/Project1_Release/</url>
+            <url>http://192.168.95.162:8081/repository/karthikProject1_Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
