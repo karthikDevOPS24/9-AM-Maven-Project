@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://ec2-52-91-206-221.compute-1.amazonaws.com/repository/mvnProject1_Release/</url>
+            <url>http://54.87.226.137/repository/mvnProject1_Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://ec2-52-91-206-221.compute-1.amazonaws.com/repository/mvnProject1_Snap/</url>
+            <url>http://54.87.226.137/repository/mvnProject1_Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
